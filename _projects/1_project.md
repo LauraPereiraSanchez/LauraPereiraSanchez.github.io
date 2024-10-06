@@ -1,8 +1,8 @@
 ---
 layout: page
 title: AI and Machine Learning algorithms for particle physics
-description: with background image
-img: assets/img/12.jpg
+description: Parametrised Neural Network to distinguish several signals from background in a highly imbalanced dataset.
+img: assets/img/event_display.png
 importance: 1
 category: work
 related_publications: true
