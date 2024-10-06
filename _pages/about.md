@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://wallenbergresearchlink.stanford.edu/people/laura-pereira-sanchez'>Postdoctoral Fellow at Stanford University</a> and the  <a href='https://www6.slac.stanford.edu/'>SLAC National Accelerator Laboratory</a> (CA, US). Currently based at  <a href='https://home.cern/'>CERN</a> (Geneva, Switzerland). 
 
 profile:
   align: right
@@ -16,9 +16,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
- PhD in experimental particle physics currently employed by Stanford University. I am driven by the possibility of applying my experience analyzing big data and my knowledge in AI, statistics, data science and software development, to projects that will generate value and have a direct positive impact in society.
+I hold a PhD in experimental Particle Physics from <a href='https://www.fysik.su.se/english/elementary-particle-physics'>Stockholm University</a>, supervised by <a href='https://www.su.se/english/profiles/strandberg-1.188090?open-collapse-boxes=research-projects'>Prof. Sara Strandberg</a>. I have more than 6 years of experience as a Researcher and Data Scientist in the <a href='https://atlas.cern/Discover/Collaboration'>ATLAS Collaboration</a> - an international Collaboration with more than 3000 physicist and engineers from different research labs and universities. We work together to build one of the biggest particle physics detectors in the world and analyze its data by developing AI and statistics based softwares.
 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Currently, I am a <a href='https://wallenbergresearchlink.stanford.edu/people/laura-pereira-sanchez'>Postdoctoral Fellow at Stanford University</a> with <a href='https://profiles.stanford.edu/caterina-vernieri?tab=bio'>Prof. Caterina Vernieri<a/> and <a href='https://makagan.github.io/kagan/'>Dr. Michael Kagan<a/>.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am deeply goal oriented and have a great ability to collaborate. I enjoy both, being the hands-on expert of a small part of a project, but also overseeing and organizing the requirements of a full project. My colleagues often describe me as efficient, driven and an excellent communicator. 
+
+
+My interests extend beyond particle physics. I have exploited my experience training Neural Networks with highly imbalanced datasets in particle physics to contribute to a publication about long term detection for autonomous driving, performed in collaboration with engineers at Scania and KTH.
