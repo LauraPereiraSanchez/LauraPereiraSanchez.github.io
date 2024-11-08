@@ -23,7 +23,6 @@ Increased LiDAR sparsity with distance from ego vehicle is one of the major chal
 </div>
 
 
-
 The large label imbalance between objects at long range (> 100 m) and mid range (< 100 m) is similar to that experienced in particle physics, where signals are much rare than backgrounds. To solve this issue we combine two 3D detection networks, referred to as range experts, one specializing at near to mid-range objects, and one at long-range 3D detection. To train a detector at long-range under a scarce label regime, we further weigh the loss according to the labelled point's distance from ego vehicle. This is very similar to the techniques exploited to train the parametrised Neural Networks capable of detecting rare multi-Higgs boson events in {% cite atlascollaboration2024searchresonancedecayingscalar %}.
 
 
