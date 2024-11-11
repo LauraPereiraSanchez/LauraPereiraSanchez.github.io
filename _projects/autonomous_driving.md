@@ -12,7 +12,7 @@ related_publications: true
 
 
 <div class="row">
-    <div class="col-sm mt-8 mt-md-3">
+    <div class="col-sm mt-6 mt-md-2">
         {% include figure.liquid loading="eager" path="assets/img/mid_vs_long.png" title="Lidar sparsity" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-2 mt-md-2">
